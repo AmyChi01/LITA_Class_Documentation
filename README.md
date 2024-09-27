@@ -4,6 +4,15 @@ Here, I documented my first project while learning Data Analysis with the Incuba
 
 ### Project Title
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparation
+
+
 ### Project Overview
 
 ### Tools Used
@@ -15,10 +24,12 @@ Here, I documented my first project while learning Data Analysis with the Incuba
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
-### Data Cleaning and Preparations
+### Data Cleaning and Preparation
 ### Exploratory Data Analysis
 
 ## SQL BASICS
 ```SQL
 SELECT * FROM TABLE1
 WHERE```
+
+💻
